@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: pybrick
+Version: 0.1.3
+Summary: A python/yellowbrick interface utility
+Home-page: https://github.com/iamlevis/blurry/pybrick
+Author: Chris Levis
+Author-email: chris.levis@gmail.com
+License: Apache2
+Description: A python/yellowbrick interface utility
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
